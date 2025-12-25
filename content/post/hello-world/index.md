@@ -3,7 +3,7 @@ title: Hello World
 description: Photo by Benjamin Voros on Unsplash！
 slug: hello-world
 date: 2025-12-25 00:16:00+0000
-image: cover.jpg
+image: cover2.jpg
 categories:
     - Example Category
 tags:
