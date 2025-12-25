@@ -11,6 +11,4 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-![星空与雪山](/images/cover.jpg)
-
-Photo by Benjamin Voros on Unsplash
+Hello World！
