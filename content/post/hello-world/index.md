@@ -1,6 +1,6 @@
 ---
 title: Hello World！！！
-description: Photo by Voros ！
+description:
 slug: hello-world
 date: 2025-12-25 00:16:00+0000
 image: cover.jpg
