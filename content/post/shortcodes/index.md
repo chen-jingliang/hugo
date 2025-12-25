@@ -1,8 +1,8 @@
 ---
 title: Shortcodes
 description: Useful shortcodes that can be used in Markdown
-date: 2023-08-25 00:00:00+0000
-image: cover.jpg
+date: 2025-08-25 00:00:00+0000
+image: 
 ---
 
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
