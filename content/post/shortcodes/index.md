@@ -1,6 +1,6 @@
 ---
 title: Shortcodes
-description: Useful shortcodes that can be used in Markdown
+description: 
 date: 2025-08-25 00:00:00+0000
 image: 
 ---
