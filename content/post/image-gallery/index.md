@@ -1,6 +1,6 @@
 ---
-title: Image gallery
-description: Create beautiful interactive image gallery using Markdown
+title: gallery
+description: 
 date: 2025-11-26 00:00:00+0000
 image: 
 ---
