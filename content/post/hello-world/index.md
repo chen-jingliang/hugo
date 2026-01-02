@@ -1,8 +1,8 @@
 ---
-title: Hello World！！！
+title: Hello 2026!
 description:
-slug: hello-world
-date: 2025-12-25 00:16:00+0000
+slug: hello2026
+date: 2026-1-1 00:16:00+0000
 image: cover.jpg
 categories:
 tags:
@@ -10,4 +10,4 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Hello World！
+Hello 2026！
