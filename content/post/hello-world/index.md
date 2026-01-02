@@ -1,7 +1,6 @@
 ---
 title: Hello 2026!
 description:
-slug: hello2026
 date: 2026-01-01 00:16:00+0000
 image: cover.jpg
 categories:
